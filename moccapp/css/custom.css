@@ -1,0 +1,156 @@
+
+
+.navbar-default {
+
+
+  background-color:transparent;
+  color: white;
+
+}
+
+
+.navbar {
+  margin-bottom: 0px;
+  border:none;
+  background: white;
+  margin-top: 40px;
+  border-bottom: 1px solid #777;
+
+
+}
+
+.navbar-default .navbar-brand {
+
+  color: #2C3E58;
+
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+
+color: #18BC9C;
+
+
+}
+.navbar-default .navbar-nav > li > a {
+
+  color: #2C3E58;;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #18BC9C;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+
+  background-color: #18BC9C;
+  color: #FFFFFF;
+
+}
+
+.modal-dialog {width:600px;}
+.thumbnail {margin-bottom:6px;}
+
+.btn-custom {
+  background-color: #2C3E58;
+  color: #FFFFFF;
+
+}
+
+
+/* carousel */
+
+
+
+.padding-minus {
+
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.navbar-brand
+{
+
+font-size: 30px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+line-height: 26.4px;
+
+}
+
+.navbar {
+
+
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  margin-bottom: 40px;
+
+}
+
+.navbar li {
+
+  margin: 0 auto;
+
+}
+
+
+
+
+/* form */
+
+.formline {
+
+  margin: 5px;
+
+
+}
+
+/* footer */
+
+
+
+.flexcontainer {
+  flex-direction: column;
+  text-align: center;
+  border-top: 1px solid #444;
+  display:flex;
+  justify-content: center;
+}
+
+.flexitem {
+
+  margin-top:8px;
+
+}
+.flexitem-login {
+
+  margin-top:8px;
+  width: 90px;
+  margin-bottom: 20px;
+
+}
+
+.imgtext p{
+  margin-left: 20%;
+  text-align: center;
+}
+
+.extramargin {
+
+  margin-bottom: 20px;
+
+}
+
+
+.text-center a {
+
+color: #FFFFFF;
+
+}
